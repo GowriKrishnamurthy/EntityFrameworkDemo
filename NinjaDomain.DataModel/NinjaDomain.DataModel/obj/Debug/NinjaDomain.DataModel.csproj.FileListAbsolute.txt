@@ -12,3 +12,5 @@ F:\1.120K Dream Job\.Gowri Code\CSharp\EntityFrameworkDemo\NinjaDomain.DataModel
 F:\1.120K Dream Job\.Gowri Code\CSharp\EntityFrameworkDemo\NinjaDomain.DataModel\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.CopyComplete
 F:\1.120K Dream Job\.Gowri Code\CSharp\EntityFrameworkDemo\NinjaDomain.DataModel\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
 F:\1.120K Dream Job\.Gowri Code\CSharp\EntityFrameworkDemo\NinjaDomain.DataModel\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
+F:\1.120K Dream Job\.Gowri Code\CSharp\EntityFrameworkDemo\NinjaDomain.DataModel\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
+F:\1.120K Dream Job\.Gowri Code\CSharp\EntityFrameworkDemo\NinjaDomain.DataModel\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.cache
